@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": "4290",
+      "id": "0.9111500248762423",
+      "like": 0,
+      "title": "ttes",
+      "userFeed": "ads",
+      "comments": []
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "Login" : {
+    "username": "admin",
+    "password": 123456
+  }
+}
